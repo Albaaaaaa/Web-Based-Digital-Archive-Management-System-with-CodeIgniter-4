@@ -2,6 +2,7 @@
 
 Silayar is a web-based digital archive system built to simplify document storage, indexing, retrieval, and user-based access management in one centralized platform.
 
+![Mockup 1](https://raw.githubusercontent.com/Albaaaaaa/Web-Based-Digital-Archive-Management-System-with-CodeIgniter-4/blob/main/public/assets/desain%20laayout.gif)
 ---
 
 ## Table of Contents
